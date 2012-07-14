@@ -1,0 +1,5 @@
+- Recognizing of text from a live image 
+      and 
+- efficient algorithm to parse each character/word using OpenCV library in C++ 
+      and 
+- convert it into text by Tesseract Engine.
